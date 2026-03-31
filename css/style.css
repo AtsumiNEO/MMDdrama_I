@@ -94,6 +94,19 @@ nav a:hover {
   max-width: 500px;
 }
 
+.words {
+  margin-bottom: 20px;
+}
+
+.words img {
+  width: 500px;
+  margin-right: 15px;
+}
+
+.words .text {
+  max-width: 500px;
+}
+
 td {
   padding-right: 24px;
 }
